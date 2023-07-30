@@ -1,5 +1,5 @@
 # Minesweeper
-A basic Minesweeper game made in pygame
+A simple Minesweeper game made in pygame
 
 
 pygame must be installed
